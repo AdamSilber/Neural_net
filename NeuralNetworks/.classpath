@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="resources/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="resources/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="resources/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="resources/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="resources/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="resources/xstream-1.4.8.jar"/>
+	<classpathentry kind="lib" path="resources/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="resources/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
